@@ -1,2 +1,8 @@
-# Property-AI-Suite
-An AI-powered toolkit designed to revolutionize the Dubai real estate market. This suite provides real estate professionals with powerful tools for data-driven decision-making, including smart pricing, personalized property recommendations, and a lead scoring engine.
+# Dubai Property AI Suite
+
+AI-powered toolkit for Dubai real estate:
+- 🏷️ Smart Pricing + ROI prediction
+- 🏙️ Property recommender
+- 🔥 Lead scoring engine
+
+Built with React + Vite + Tailwind (frontend) and FastAPI (backend).
