@@ -29,3 +29,5 @@ This application is built with a modern, robust tech stack to ensure high perfor
    ```
    npm run dev
    ```
+# 📧 Contact
+If you have any questions or suggestions, feel free to reach out via email or create an issue on GitHub. batrapulkit1103@gmail.com
